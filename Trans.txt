@@ -1,0 +1,7 @@
+Diposit: +R 500.0 Balance: R5600.0Diposit: +R 800.0 Balance: R6400.0Diposit: +R 600.0 Balance: R7000.0Diposit: +R 400.0
+Balance: R7400.0Diposit: +R 750.0
+Balance: R8150.0Diposit: +R 70.0
+Balance: R8220.0Diposit: +R 525.0
+Balance: R8745.0Diposit: +R 800.0
+Balance: R9545.0Diposit: +R 890.0
+Balance: R10435.0
