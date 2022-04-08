@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cwayita
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... looking for an employment
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... big projects
 - 📫 How to reach me ...
 faithck835@gmail.com and contact 0834170898
 <!---
